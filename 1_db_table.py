@@ -1,13 +1,13 @@
-#SQL (Structured Query Language) database se baat karne ki language hai.
+SQL (Structured Query Language) database se baat karne ki language hai.
 """Iska use hota hai:
 Data store karna, Data nikalna (fetch), Data update / delete karna"""
 
 #Examples of databases:
-"""MySQL
+MySQL
 PostgreSQL
-SQLite"""
+SQLite
 
-#Database → Table → Rows → Columns
+Database → Table → Rows → Columns
 "school - students - id_name_age_city"
 
 
